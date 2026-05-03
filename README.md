@@ -15,10 +15,10 @@
 <br><br>
 
 <a href="https://github.com/5yyv4p8n2n-alt">
-  <img src="https://img.shields.io/badge/GITHUB-5YYV4P8N2N--ALT-070A13?style=for-the-badge&logo=github&logoColor=white&labelColor=3B0764" alt="GitHub profile: 5yyv4p8n2n-alt" />
+  <img src="./assets/github-badge.svg" alt="GitHub profile: 5yyv4p8n2n-alt" />
 </a>
 <a href="https://discord.com/users/1329812753288003655">
-  <img src="https://img.shields.io/badge/DISCORD-XSALIS-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=3B0764" alt="Discord profile: Xsalis" />
+  <img src="./assets/discord-badge.svg" alt="Discord profile: Xsalis" />
 </a>
 
 <br><br>
