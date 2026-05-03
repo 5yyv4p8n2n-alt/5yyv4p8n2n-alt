@@ -4,6 +4,10 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=building+with+AI;turning+ideas+into+prototypes;vibe+coding+in+private" alt="Typing SVG" />
+
+<br><br>
+
 <strong>building with AI, testing ideas fast, and turning rough concepts into prototypes</strong>
 
 <br><br>
@@ -22,4 +26,3 @@ vibe coding / AI building / private experiments
 <sub>Most of my repositories are private while I learn, test, and build.</sub>
 
 </div>
-
