@@ -30,4 +30,3 @@ vibe coder / AI builder / private experiments
 <sub>Most of my repositories are private while I learn, test, and build.</sub>
 
 </div>
-
