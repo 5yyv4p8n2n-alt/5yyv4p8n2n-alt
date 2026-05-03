@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img width="72%" style="max-width: 100%; height: auto;" src="./assets/social-banner.svg" alt="GitHub profile 5yyv4p8n2n-alt and Discord profile Xsalis" />
+<img width="72%" style="max-width: 100%; height: auto;" src="./assets/social-banner.svg" alt="GitHub profile Xsalis and Discord profile Xsalis" />
 
 <br><br>
 
