@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img width="100%" style="max-width: 100%; height: auto;" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=vibe+coding+with+AI;shipping+ideas+at+midnight;private+builds+%2F+public+vibes" alt="Typing animation saying vibe coding with AI, shipping ideas at midnight, private builds public vibes" />
+<img width="100%" style="max-width: 100%; height: auto;" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=vibe+coding+with+AI;testing+ideas+at+midnight;building+quietly+with+AI" alt="Typing animation saying vibe coding with AI, testing ideas at midnight, building quietly with AI" />
 
 <br>
 
