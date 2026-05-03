@@ -8,12 +8,13 @@
 
 <br><br>
 
-<a href="https://github.com/Xsalis">
-  <img src="https://img.shields.io/badge/GitHub-Xsalis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile Xsalis" />
-</a>
 <a href="https://discord.com/users/1329812753288003655">
-  <img src="https://img.shields.io/badge/Discord-Xsalis-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile Xsalis" />
+  <img width="100%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:070A13,35:3B0764,70:5865F2,100:22D3EE&text=Discord%20%E2%80%A2%20Xsalis&fontColor=ffffff&fontSize=31&desc=click%20to%20connect&descAlignY=74" alt="Discord profile link for Xsalis" />
 </a>
+
+<br><br>
+
+<img width="72%" style="max-width: 100%; height: auto;" src="./assets/social-banner.svg" alt="GitHub profile 5yyv4p8n2n-alt and Discord profile Xsalis" />
 
 <br><br>
 
