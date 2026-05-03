@@ -14,8 +14,12 @@
 
 <br><br>
 
-<img width="42%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:070A13,45:3B0764,100:5865F2&text=STATUS%20%E2%80%A2%20building%20in%20silence&fontColor=ffffff&fontSize=15" alt="Status: building in silence" />
-<img width="42%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:5865F2,55:8B5CF6,100:22D3EE&text=VIBE%20%E2%80%A2%20private%20experiments&fontColor=ffffff&fontSize=15" alt="Vibe: private experiments" />
+<a href="https://github.com/5yyv4p8n2n-alt">
+  <img src="https://img.shields.io/badge/GITHUB-5YYV4P8N2N--ALT-070A13?style=for-the-badge&logo=github&logoColor=white&labelColor=3B0764" alt="GitHub profile: 5yyv4p8n2n-alt" />
+</a>
+<a href="https://discord.com/users/1329812753288003655">
+  <img src="https://img.shields.io/badge/DISCORD-XSALIS-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=3B0764" alt="Discord profile: Xsalis" />
+</a>
 
 <br><br>
 
