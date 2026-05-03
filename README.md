@@ -34,3 +34,4 @@ Most of my repositories are private while I learn, test, and build.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:22D3EE,50:5865F2,100:111827" />
+
