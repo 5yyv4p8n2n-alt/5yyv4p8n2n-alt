@@ -14,8 +14,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-building%20in%20silence-070A13?style=for-the-badge&logo=discord&logoColor=white&labelColor=3B0764" alt="Status: building in silence" />
-<img src="https://img.shields.io/badge/vibe-private%20experiments-22D3EE?style=for-the-badge&labelColor=5865F2&color=22D3EE" alt="Vibe: private experiments" />
+<img width="80%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:070A13,35:3B0764,70:5865F2,100:22D3EE&text=building%20in%20silence%20%2F%2F%20private%20experiments&fontColor=ffffff&fontSize=18" alt="Status: building in silence, private experiments" />
 
 <br><br>
 
