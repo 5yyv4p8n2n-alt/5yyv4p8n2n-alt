@@ -14,7 +14,8 @@
 
 <br><br>
 
-<img width="80%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:070A13,35:3B0764,70:5865F2,100:22D3EE&text=building%20in%20silence%20%2F%2F%20private%20experiments&fontColor=ffffff&fontSize=18" alt="Status: building in silence, private experiments" />
+<img width="42%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:070A13,45:3B0764,100:5865F2&text=STATUS%20%E2%80%A2%20building%20in%20silence&fontColor=ffffff&fontSize=15" alt="Status: building in silence" />
+<img width="42%" style="max-width: 100%; height: auto;" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:5865F2,55:8B5CF6,100:22D3EE&text=VIBE%20%E2%80%A2%20private%20experiments&fontColor=ffffff&fontSize=15" alt="Vibe: private experiments" />
 
 <br><br>
 
