@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<sub><strong>5YYV4P8N2N-ALT / README.md</strong></sub>
 
-<!--
-**5yyv4p8n2n-alt/5yyv4p8n2n-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Xsalis
+Vibe Coder & AI Builder
 
-Here are some ideas to get you started:
+I build with AI, test ideas fast, and turn random thoughts into small prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> <table> <tr> <td align="center" width="420"> <br> <strong>Xsalis</strong> <br> <sub>vibe coding with AI</sub> <br><br> <em>currently experimenting and building in private</em> <br><br> </td> </tr> </table> </div>
+Connect With Me
+<p align="center"> <a href="https://github.com/5yyv4p8n2n-alt"> <img src="https://img.shields.io/badge/GitHub-5yyv4p8n2n--alt-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <img src="https://img.shields.io/badge/Discord-your--discord--name-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </p>
+<div align="center">
+Most of my repositories are private while I experiment.
+
+</div>
