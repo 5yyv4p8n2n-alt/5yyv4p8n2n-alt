@@ -14,12 +14,7 @@
 
 <br><br>
 
-<a href="https://github.com/5yyv4p8n2n-alt">
-  <img src="./assets/github-badge.svg" alt="GitHub profile: 5yyv4p8n2n-alt" />
-</a>
-<a href="https://discord.com/users/1329812753288003655">
-  <img src="./assets/discord-badge.svg" alt="Discord profile: Xsalis" />
-</a>
+<img width="72%" style="max-width: 100%; height: auto;" src="./assets/social-banner.svg" alt="GitHub profile 5yyv4p8n2n-alt and Discord profile Xsalis" />
 
 <br><br>
 
